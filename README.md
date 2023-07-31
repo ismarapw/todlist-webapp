@@ -8,6 +8,6 @@ Just open the HTML file. I dont use any package manager.
 The features are really simple. At the moment, this website can just add, delete and search task. This to do list website show the statistic of the task that you've done as well. 
 
 # Snapshots
-These are some screenshot how the website looks like. 
+These are some screenshots how the website looks like visually.
 ![image](https://github.com/ismarapw/To-Do-List-Web-App/assets/76652264/d9416593-949e-4cda-818d-dff5ae6960fa)
 ![image](https://github.com/ismarapw/To-Do-List-Web-App/assets/76652264/e579ae7d-d9d3-4279-b5a2-f9c987df1d6b)
