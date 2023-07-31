@@ -5,4 +5,4 @@ This To-Do-List website i made in order to enhance my skills in HTML, CSS and Ja
 Just open the HTML file. I dont use any package manager. 
 
 # Features
-The features is really simple. At the moment, this website can just add, delete and search task. This to do list website show the statistic of the task that you've done as well. 
+The features are really simple. At the moment, this website can just add, delete and search task. This to do list website show the statistic of the task that you've done as well. 
